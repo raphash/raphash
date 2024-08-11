@@ -1,4 +1,6 @@
-```lua
-  local developer = {}
-        developer.isWebDeveloper = true
+```c
+while (studying)
+{
+  knowledge++;
+}
 ```
