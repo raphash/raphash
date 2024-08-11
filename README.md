@@ -1,1 +1,7 @@
-# HELLO, WORLD!
+```javascript
+// Hello, World!
+while (studying)
+{
+  knowledge++;
+}
+```
